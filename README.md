@@ -7,4 +7,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0551-student-attendance-record-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0551-student-attendance-record-i/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0414-third-maximum-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0414-third-maximum-number](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->
