@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0069-sqrtx/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Heap (Priority Queue)
@@ -56,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0061-rotate-list/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
