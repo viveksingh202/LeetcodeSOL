@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Linked List
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
