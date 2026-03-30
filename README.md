@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0169-majority-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0169-majority-element/) | Easy |
 | [0283-move-zeroes](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0414-third-maximum-number/) | Easy |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0069-sqrtx/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
