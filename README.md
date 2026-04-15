@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0414-third-maximum-number/) | Easy |
+| [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Tree
@@ -125,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0169-majority-element/) | Easy |
+| [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Divide and Conquer
@@ -148,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
