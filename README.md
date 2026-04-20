@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -177,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0032-longest-valid-parentheses/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/viveksingh202/LeetcodeSOL/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 <!---LeetCode Topics End-->
