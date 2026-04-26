@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0007-reverse-integer/) | Medium |
 | [0069-sqrtx](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0069-sqrtx/) | Easy |
 | [0342-power-of-four](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0342-power-of-four/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/viveksingh202/LeetcodeSOL/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0496-next-greater-element-i/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/viveksingh202/LeetcodeSOL/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0061-rotate-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/viveksingh202/LeetcodeSOL/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
